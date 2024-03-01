@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    padding:0;
+    margin:0;
+
+}
+#title, #result{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 300;
+}
+#addButton{
+    border-radius: 2rem;
+    background-color: #497285;
+    font-size:1.4rem;
+    cursor:pointer;
+    padding:0.5rem;
+    
+}
+#subButton{
+    background-color: #f78536;
+    border-radius: 2rem;
+    font-size:1.4rem;
+    cursor:pointer;
+    padding:0.5rem;
+}
